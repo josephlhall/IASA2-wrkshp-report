@@ -40,7 +40,7 @@ created ten years ago, and since been subject to some reflection
 
 --- middle
 
-Context					{#context}
+Context {#context}
 =======
 
 Slide 4 - Acronyms and Entities
@@ -60,7 +60,7 @@ Slide 5 - organizational diagram
 Leslie - There are pieces of this that may not fit all reality, but this illustrates the large number of pieces moving in this organization. e.g. There should be arrows between IAOC committees and the IAD. Supported by committees to do some of the more detailed work - finances, meeting logistics, technology management. The IAOC remains responsible for taking decisions. The IAD is at the heart of a lot of the work; touches almost all of the work of the IASA. There are a lot of moving parts; more than there were 11 years ago when the IASA was formed, because back then we didn't have control over the Secretariat and RPC. 
 
 
-Workshop Goals				{#goals}
+Workshop Goals {#goals}
 ==============
 
 Slide 6 - Workshop Goals
@@ -76,7 +76,7 @@ Gonzo - Here to brainstorm
 Leslie - Good to capture the issues; the mailing list is there and we can continue to capture. Today is to grasp some of the larger issues.
 
 
-Issues Raised				{#issues}
+Issues Raised {#issues}
 =============
 
 (this is the structure from the agenda for the second workshop)
@@ -84,7 +84,7 @@ Issues Raised				{#issues}
 (content TBD)
 
 
-Staff and Volunteer Resource Issues	{#staff}
+Staff and Volunteer Resource Issues {#staff}
 -----------------------------------
 
 Slide 8. Staff and volunteer resource issues
@@ -114,7 +114,7 @@ Dave Crocker - The function of the committees seems to go pretty well, but somet
 
 
 
-Transparency				{#transparency}
+Transparency {#transparency}
 ------------
 
 Slide 9. Transparency
@@ -146,7 +146,7 @@ Jari, from Jabber - I'd break the issue into three - 1/ community knowing more 2
 Dave Crocker - Recognizing we're trying to describe the problem, but I think the suggestion about signaling what the IAOC is planning to do, like a Last Call, is worthy. But other things simply don't permit it. But doing that when it is possible seems like a very good idea. Having the IAOC document the basis for a decision, rather than the mere fact of it. For the mundane stuff, that's too much work, but for other things that might help the community.
 
 
-Structural Issues			{#structure}
+Structural Issues {#structure}
 -----------------
 
 Slide 10. Structural issues between the IETF, the IAOC, ISOC, the IESG, and contractors
@@ -213,7 +213,7 @@ Leslie - But there is also lack of clarity about where some of the questions sho
 * the general question - is it a "thin" IAOC that has mostly oversight of IAD or a "thick" IAOC that has administrative responsibilities -
 * ie. who is driving the bus?
 
-Internal IAOC Organizational Issues	{#IAOCorg}
+Internal IAOC Organizational Issues {#IAOCorg}
 -----------------------------------
 
 Slide 11. Internal IAOC organizational issues
@@ -270,7 +270,7 @@ Dave - +1 to that. And I've been reviewing the paper, and was pleased to see muc
 Leslie - Still collecting comments on the paper, so if you have more, please send them along.
 
 
-Funding Issues				{#funding}
+Funding Issues {#funding}
 --------------
 
 Slide 12. Funding issues
