@@ -82,11 +82,11 @@ In 2016, IETF leadership began a discussion of the need to review and
 possibly rework administrative arrangements at the IETF, dubbed the
 IETF Administrative Support Activity 2.0 project {{Arkko-2016}}.  A
 series of virtual workshops related to this effort were scheduled and
-heald on 28 February 2017 at 11:00 UTC and 16:00 UTC. (The agenda,
+held on 28 February 2017 at 11:00 UTC and 16:00 UTC. (The agenda,
 slides, and minutes from the two meetings are available at the
 workshop proceedings {{IASA20-proceedings}}. Recordings of the two
 workshops are also available {{IASA20-1100UT-rec}}
-{{IASA20-1600UT-rec}}.
+{{IASA20-1600UT-rec}}.)
 
 For background, the IASA arrangements were created more than ten years
 ago, when the IETF initially took charge of its own administration
@@ -120,24 +120,46 @@ identifying current challenges and opportunities.  Proposed changes
 and solutions will be discussed and dealt with in a later phase of the
 IASA 2.0 project.
 
-Context and Terminology {#context}
-=======================
+Terminology and Organizational Structure {#termsorg}
+========================================
 
-Slide 4 - Acronyms and Entities
+Terminology {#terms}
+-----------
 
-* IASA - IETF Administrative Support Activity - An organized activity that provides administrative support for the IETF, the IAB and the IESG.
-* IAOC - IETF Administrative Oversight Committee - A largely IETF-selected committee that oversees and directs IASA. Accountable to the IETF community.
-* IAD - IETF Administrative Director - The sole staff member responsible for carrying out the work of the IASA. An ISOC employee.
-* IETF Trust - Acquires, maintains, and licenses intellectual and other property used in connection with the administration of the IETF. Same composition as IAOC.
+The following acronyms will be heavily used in the discussion below:
 
-Gonzo - IASA was established in 2005. Now we have running code to check how things are working, how they might be improved
+* IASA - IETF Administrative Support Activity - An organized activity
+  that provides administrative support for the IETF, the IAB and the
+  IESG.
 
-Slide 5 - organizational diagram
+* IAOC - IETF Administrative Oversight Committee - A largely
+  IETF-selected committee that oversees and directs IASA. Accountable
+  to the IETF community.
 
-* IETF Trust also includes the IAD, who is NOT a voting IAOC member
-* Does not include subcommittees
+* IAD - IETF Administrative Director - The sole staff member
+  responsible for carrying out the work of the IASA. An ISOC employee.
 
-Leslie - There are pieces of this that may not fit all reality, but this illustrates the large number of pieces moving in this organization. e.g. There should be arrows between IAOC committees and the IAD. Supported by committees to do some of the more detailed work - finances, meeting logistics, technology management. The IAOC remains responsible for taking decisions. The IAD is at the heart of a lot of the work; touches almost all of the work of the IASA. There are a lot of moving parts; more than there were 11 years ago when the IASA was formed, because back then we didn't have control over the Secretariat and RPC. 
+* IETF Trust - Acquires, maintains, and licenses intellectual and
+  other property used in connection with the administration of the
+  IETF. Same composition as IAOC.
+
+Organizational Structure {#org}
+------------------------
+
+In terms of organizational arrangements, the workshop chairs showed a
+slide that provided an organizational diagram of the relationships
+between various entities. (TK: do we want to embed the diagram or
+point to it?). In addition the IAOC relies on a number of
+subcommittees to get its work done -- Finance, Legal Management,
+Meetings, Technology Management, and RFP Committee in addition to any
+ad hoc committeess, which were not reflected in the diagram, noted one
+participant.
+
+Some workshop participants felt that the diagram generally reflected
+reality and that it illustrated the large number of moving pieces
+involved. It was pointed out that there are a lot of moving parts
+compared to 11 years ago when the IASA was formed, as IASA now "owns"
+certain functions that it did not, such as the Secretariat and RPC.
 
 
 Workshop Goals {#goals}
