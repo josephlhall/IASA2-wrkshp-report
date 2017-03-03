@@ -11,3 +11,4 @@ venv/
 issues.json
 lib
 draft-IASA2-wrkshp-report.md
+.DS_Store
