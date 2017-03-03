@@ -27,6 +27,7 @@ author:
 informative:
   RFC4071:
   I-D.daigle-iasa-retrospective:
+  I-D.arkko-ietf-finance-thoughts:
 
 
 
@@ -280,7 +281,7 @@ Slide 12. Funding issues
 * Relying heavily on meeting-based revenue is somewhat at odds with the fact that much of the IETF's work takes place outside of in-person meetings.
 * The IETF is increasingly relying on professional services to support its activities, causing expenses to grow.
 
-Jari - there's a new draft on funding issues - https://datatracker.ietf.org/doc/draft-arkko-ietf-finance-thoughts/
+Jari - there's a new draft on funding issues {{I-D.arkko-ietf-finance-thoughts}}
 * costs are going up (more tools, new hotels, etc.), funding is flat, so long-term issue
 * operating expenses are not covered by meeting fees, so increased pressure on sponsorship, increased ISOC contribution
 
@@ -299,7 +300,7 @@ Leslie - We go back to the same people for support over and over again. How can 
 
 Bob - One thing I've thought is that the model where we do look for sponsors is a good way of measuring support in the community. If that starts to dry up, it's probably a symptom of larger problems of us being no longer relevant. 
 
-Jari - This issue is one reason why it's good for the IETF to multiple sources of funding to stand on. I also submitted an I-D this morning with my view of the challenges in this space. https://datatracker.ietf.org/doc/draft-arkko-ietf-finance-thoughts/
+Jari - This issue is one reason why it's good for the IETF to multiple sources of funding to stand on. I also submitted an I-D this morning with my view of the challenges in this space. {{I-D.arkko-ietf-finance-thoughts}}
 
 Suzanne - One of the big pieces of the puzzle to me; it's not even the specifics of where the expenses are coming from, but a mismatch between our activities and our funding model. One thing I've observed is that even explaining the need for diversity of funding is more complicated than it needs to be. We need to find a simpler story.
 
