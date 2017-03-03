@@ -29,20 +29,99 @@ informative:
   I-D.daigle-iasa-retrospective:
   I-D.arkko-ietf-finance-thoughts:
 
+  Arkko-2016:
+    target: https://www.ietf.org/blog/2016/11/proposed-project-ietf-administrative-support-2-0/
+    title: "Proposed Project: IETF Administrative Support 2.0"
+    author:
+      name: Jari Arkko
+      ins: J. Arkko
+    date: 2016
+
+  IASA20-proceedings:
+    target: https://datatracker.ietf.org/meeting/interim-2017-iasa20-01/session/iasa20
+    title: IASA 2.0 Virtual Workshop Proceedings
+    author:
+      org: IETF
+    date: 2017
+
+  IASA20-1100UT-rec:
+    target: https://ietf.webex.com/ietf/ldr.php?RCID=ef0761bb5806958ce37a631b20fa2910
+    title: "Recording: IASA 2.0 Virtual Workshop, 28 February 2017 (1100 UT)"
+    author:
+      org: IETF
+    date: 2017
+  
+  IASA20-1600UT-rec:
+    target: https://ietf.webex.com/ietf/ldr.php?RCID=ee9f475275e8758dc55d73b11c851d00
+    title: "Recording: IASA 2.0 Virtual Workshop, 28 February 2017 (1600 UT)"
+    author:
+      org: IETF
+    date: 2017
 
 
 --- abstract
 
 This is a Workshop Report for the IETF Administrative Support Activity
-2.0 (IASA 2.0) Virtual Workshops, held on 28 February 2017. The
-original IETF Administrative Support Activity (IASA, {{RFC4071}}) was
-created ten years ago, and since been subject to some reflection
-{{I-D.daigle-iasa-retrospective}}.
+2.0 (IASA 2.0) Virtual Workshops, held on 28 February 2017 at 1100 UT
+and 1600 UT. The original IETF Administrative Support Activity (IASA,
+{{RFC4071}}) was created ten years ago, and since been subject to some
+reflection. In the intervening years, there has been considerable
+change in the necessary tasks of IETF administration and in the world
+around the IETF {{I-D.daigle-iasa-retrospective}} and in how the IETF
+raises funds and finances its work
+{{I-D.arkko-ietf-finance-thoughts}}.  The IASA 2.0 process seeks to
+address what administrative arrangements will best support the IETF
+going forward.
 
 --- middle
 
-Context {#context}
-=======
+Introduction {#intro}
+============
+
+In 2016, IETF leadership began a discussion of the need to review and
+possibly rework administrative arrangements at the IETF, dubbed the
+IETF Administrative Support Activity 2.0 project {{Arkko-2016}}.  A
+series of virtual workshops related to this effort were scheduled and
+heald on 28 February 2017 at 11:00 UTC and 16:00 UTC. (The agenda,
+slides, and minutes from the two meetings are available at the
+workshop proceedings {{IASA20-proceedings}}. Recordings of the two
+workshops are also available {{IASA20-1100UT-rec}}
+{{IASA20-1600UT-rec}}.
+
+For background, the IASA arrangements were created more than ten years
+ago, when the IETF initially took charge of its own administration
+{{RFC4071}}. In the intervening years, there has been considerable
+change in the necessary tasks of IETF administration and in the world
+around the IETF {{I-D.daigle-iasa-retrospective}} and in how the IETF
+raises funds and finances its work
+{{I-D.arkko-ietf-finance-thoughts}}.  The IASA 2.0 process seeks to
+address what administrative arrangements will best support the IETF
+going forward.
+
+To make changes, the IETF community first needed to understand what
+challenges or missed opportunities there are in the current system. A
+number of areas currently face challenges: structural issues regarding
+the roles and interfaces between the IETF, the IAOC, ISOC, the IESG,
+and contractors; challenges to the IETF funding model; availability of
+staff, contractor, and volunteer resources compared to the
+administrative workload; and, internal IAOC organizational issues.
+
+To get input from the community about what problems exist in these
+areas (and others) IETF leadership set up two virtual workshops, open
+to everyone from the community and people who are or have worked in
+IETF-administrative roles. (Readers of this report who are less
+familiar with IETF administration are strongly encouraged to read BCP
+101 {{RFC4071}} {{I-D.daigle-iasa-retrospective}} and
+{{I-D.arkko-ietf-finance-thoughts}}.
+
+The workshops were virtual meetings where the participants provided
+their experiences and suggestions.  The workshops primarily focused on
+identifying current challenges and opportunities.  Proposed changes
+and solutions will be discussed and dealt with in a later phase of the
+IASA 2.0 project.
+
+Context and Terminology {#context}
+=======================
 
 Slide 4 - Acronyms and Entities
 
@@ -80,71 +159,8 @@ Leslie - Good to capture the issues; the mailing list is there and we can contin
 Issues Raised {#issues}
 =============
 
-(this is the structure from the agenda for the second workshop)
-
-(content TBD)
-
-
-Staff and Volunteer Resource Issues {#staff}
------------------------------------
-
-Slide 8. Staff and volunteer resource issues
-
-* IAD workload is (much) more than a full-time job, but we have one staff person allocated to it.
-* IASA tasks touch on a wider variety of topics and require more different kinds of expertise than 10 years ago (visa issues, local social/political/health issues, new modes of fundraising, etc.), but the job descriptions and skill sets of staff and volunteers do 
-not always match these needs.
-* Very few community members have the time, support, and interest to stand for the IAOC (or even participate in administrative discussions, unless something goes astray), and many who do are self-funding their work.
-
-Not just the IAOC has trouble finding qualified volunteers
-
-Stephen - IAOC subcommittees - not clear who is involved/serving, not sure what effort is required/expended (transparency)
-
-Lack of encouragement of/participation in subcommittees might be a disincentive for IAOC participation
-
-Joe Hall - Do we conduct exit interviews? 
-
-Alissa - No since no IAD has exited. 
-
-Alissa - Need to understand requirements/dependencies on contractors and other support structure to really understand how things work - it is complicated and not generally well understood
-
-Robert Sparks - Draw a sharper distinction between volunteering for IAOC and for things like tools, as shows on structural slide earlier.
-
-Leslie (?) - Part of the point of having subcommittees is to draw in expertise in a particular area, without burdening them with the overall task of IAOC responsibility. The point there is that elaborating what kind of expertise is needed can be a bit of a challenge. There is a general challenge in elaborating what skills are needed for any of the areas of work here.
-
-Dave Crocker - The function of the committees seems to go pretty well, but sometimes there is a lack of clarity about scope and authority in relation to the IAOC. What kind of decision is being made. A recommendation that is subject to pretty easy reversal by the IAOC. This sometimes provides an undercurrent of doubt when discussions take place.
-
-
-
-Transparency {#transparency}
-------------
-
-Slide 9. Transparency
-
-* IAOC has typically been perceived to operate less transparently than what is the norm for IETF processes and other IETF leadership bodies.
-* Lack of transparency has some roots in concerns about confidentiality of contract terms and business relationships, and fear of community reaction to administrative decisions.
-* Requirements from the community about IAOC transparency expectations are not clear.
-
-Bob Hinden - I think the IAOC could do better in telling the community what it does and how it makes decisions. Now that we're limiting time in the plenary, the community doesn't get to see the IAOC very much so they don't see them or understand what they do.
-
-Jari - I agree that this is a big topic and needs to be addressed. On the previous call there was a discussion about how much people actually know about the subcommittees. And the fundamental transparency of what we tell the community is evolving a bit. I think the trouble here is that the devil is in the details. It's details about what the contracts are and getting clarity on what is going on with that. Hotel contracts aren't shown, and there have been some arguments about that. Understanding what we need to improve and where we can improve.
-
-Leslie - Mention of IAOC time in plenary--counter-experience says people don't want over-exposure to the very boring details. They're boring until they're not and everyone is surprised. I'm not sure that time in plenary is the way to get people to know what the IAOC does. What are other thoughts on how to better encourage more of the IETF community to understand the IAOC and role of the IASA?
-
-Bob - Not suggesting that the way to fix it is more plenary time, but there is a whole range of things that could be better. Info sessions, etc. But the lack of something tends to cause problems. I think it needs to be better; that would help getting to know and have people put their names forward. I've heard stories of NomCom not knowing what they're looking for.
-
-Robert Sparks - I think what this calls for is more than one activity that would provide insight into the community, into what the IAOC is going to do, as opposed to what it has just done. Telegraphing for a few years may improve the level of education.
-
-Richard Barnes - I think that would help those transparency requirements without running afoul of the contracts.
-
-Matt Ford - It seems there are 2 potential sources of fear - making a decision you know the community won't like, and having a situation where there is a Last Call and all of the previous conversations the IAOC has had are rehashed. 
-
-Spencer Dawkins, from Jabber - I could know this, but I don't. The ADs for most areas hold office hours at some point during meeting weeks, to allow people to corner us and raise concerns, and ask for guidance. Does the IAOC do anything like that during meeting weeks? I'm sympathetic to Bob's point that the community doesn't have a lot of visibility (and that solving that problem shouldn't require plenary time) ...
-
-Alissa - Does it translate into more people wanting to participate in the IAOC? Is that framed properly? Make sure the information is available in email and on the website, but that's not going to inspire people who don't care about administrative issues to volunteer. Expecting to rely on volunteers for this large volume of work is unreasonable. If people can spend time on the technical work, that would be a success. There are multiple different sources, and we can change the expectations.
-
-Jari, from Jabber - I'd break the issue into three - 1/ community knowing more 2/ ability to affect things (e.g., know stuff early enough that you can have an effect in a decision) 3/ this translating to bigger willingness to participate in IAOC input/work/etc. but i also agree with Alissa's "may be unreasonable to rely on volunteers" problem.
-
-Dave Crocker - Recognizing we're trying to describe the problem, but I think the suggestion about signaling what the IAOC is planning to do, like a Last Call, is worthy. But other things simply don't permit it. But doing that when it is possible seems like a very good idea. Having the IAOC document the basis for a decision, rather than the mere fact of it. For the mundane stuff, that's too much work, but for other things that might help the community.
+The IASA 2.0 Virtual Workshops focused on the following areas, ordered
+in terms of decreasing priority given input at the workshops.
 
 
 Structural Issues {#structure}
@@ -214,6 +230,107 @@ Leslie - But there is also lack of clarity about where some of the questions sho
 * the general question - is it a "thin" IAOC that has mostly oversight of IAD or a "thick" IAOC that has administrative responsibilities -
 * ie. who is driving the bus?
 
+Funding Issues {#funding}
+--------------
+
+Slide 12. Funding issues
+
+* Meeting fees are currently an important source of revenue, but remote participation and other factors may be responsible for declining in-person meeting attendance going forward. Even if fees were charged for remote participation, charging the same for remote and in-person attendance is unlikely to be a viable way to make up the difference.
+* While there has been a lot of sponsor support for, e.g., meeting hosting, getting support for the full sponsorship program is not easy. The value to sponsors is not always obvious, the IETF community is sometimes critical or unappreciative, and the same sponsors get tapped again and again for many related but different opportunities.
+* Relying heavily on meeting-based revenue is somewhat at odds with the fact that much of the IETF's work takes place outside of in-person meetings.
+* The IETF is increasingly relying on professional services to support its activities, causing expenses to grow.
+
+Jari - there's a new draft on funding issues {{I-D.arkko-ietf-finance-thoughts}}
+* costs are going up (more tools, new hotels, etc.), funding is flat, so long-term issue
+* operating expenses are not covered by meeting fees, so increased pressure on sponsorship, increased ISOC contribution
+
+Lou - perhaps meetings are self-standing (fees and sponsorships), and other sponsorships for other activities
+
+Gonzo - another possibility (long-term) is the IETF endowment
+- long-term sponsorship, such as Global Hosts
+
+Scott - given that the ietf is pretty much the major raison d'être of the isoc, what percentage of isoc expense are we?
+* looking a the posted ISOC 2015 budget - total budget $38M, IETF $9.4M (BALLPARK)
+* but IETF sees less than $3M
+
+Gonzo - maybe clarity is needed on accounting.  Send Gonzalo email if further details is needed.
+
+Leslie - We go back to the same people for support over and over again. How can we get out of that rut and find new companies. What is the right proportion for meeting-based revenue? What are the alternative methods to fund the non-meeting-based activities. Maybe there are things where we need to have things provided professionally, either through staff or contracted efforts. The structure of how we have funded ourselves in the past is in question because the direction we go may not work with that.
+
+Bob - One thing I've thought is that the model where we do look for sponsors is a good way of measuring support in the community. If that starts to dry up, it's probably a symptom of larger problems of us being no longer relevant. 
+
+Jari - This issue is one reason why it's good for the IETF to multiple sources of funding to stand on. I also submitted an I-D this morning with my view of the challenges in this space. {{I-D.arkko-ietf-finance-thoughts}}
+
+Suzanne - One of the big pieces of the puzzle to me; it's not even the specifics of where the expenses are coming from, but a mismatch between our activities and our funding model. One thing I've observed is that even explaining the need for diversity of funding is more complicated than it needs to be. We need to find a simpler story.
+
+Leslie - To follow on what Jari said vs what Bob said. If the IETF needs to ensure its ongoing relevance. Diversity is a good thing because it allows you to shift gears. To the question in the chat about registration fees being prohibitive for many, I actually think to the point of relevancy it would be good for the IETF to understand what it's offering. For me it's valuable to stay in touch with the engineers who understand how the Internet works. But I don't know how to tie that back to three meetings a year. I suspect this will never line up perfectly, but that doesn't take away the need for clarity.
+
+Gonzo - A couple of comments on organizations funding the IETF. We have the global hosts. If you think the level of funding we're getting, $500K a year--if you compare it to open-source projects, we could be getting a lot more money. The best way to support the IETF as an organization is to become a Global Host. But it's not just about money; there is printing T-shirts, social events; have to get the marketing departments involved. I think we could focus on just getting the money, and having someone else worry about the logistic problems.  Getting just the money while continuing to support the things we've come to expect like T-shirts and social events.
+
+Alia - I agree with Gonzalo's point having been involved in hosting a meeting. There is extra work involved, but there is a lot of risk as a meeting sponsor if you get anything wrong, and that's expertise IETFers don't have. And to relevance, it seems like there are 2 types of organizations we're looking for--involved in the Internet ecosystem, and those interested in standards. Figuring out how to do outreach to both of those would be helpful. The relevancy is critical to the sponsorship and funding aspects.
+
+
+Transparency Issues {#transparency}
+-------------------
+
+Slide 9. Transparency
+
+* IAOC has typically been perceived to operate less transparently than what is the norm for IETF processes and other IETF leadership bodies.
+* Lack of transparency has some roots in concerns about confidentiality of contract terms and business relationships, and fear of community reaction to administrative decisions.
+* Requirements from the community about IAOC transparency expectations are not clear.
+
+Bob Hinden - I think the IAOC could do better in telling the community what it does and how it makes decisions. Now that we're limiting time in the plenary, the community doesn't get to see the IAOC very much so they don't see them or understand what they do.
+
+Jari - I agree that this is a big topic and needs to be addressed. On the previous call there was a discussion about how much people actually know about the subcommittees. And the fundamental transparency of what we tell the community is evolving a bit. I think the trouble here is that the devil is in the details. It's details about what the contracts are and getting clarity on what is going on with that. Hotel contracts aren't shown, and there have been some arguments about that. Understanding what we need to improve and where we can improve.
+
+Leslie - Mention of IAOC time in plenary--counter-experience says people don't want over-exposure to the very boring details. They're boring until they're not and everyone is surprised. I'm not sure that time in plenary is the way to get people to know what the IAOC does. What are other thoughts on how to better encourage more of the IETF community to understand the IAOC and role of the IASA?
+
+Bob - Not suggesting that the way to fix it is more plenary time, but there is a whole range of things that could be better. Info sessions, etc. But the lack of something tends to cause problems. I think it needs to be better; that would help getting to know and have people put their names forward. I've heard stories of NomCom not knowing what they're looking for.
+
+Robert Sparks - I think what this calls for is more than one activity that would provide insight into the community, into what the IAOC is going to do, as opposed to what it has just done. Telegraphing for a few years may improve the level of education.
+
+Richard Barnes - I think that would help those transparency requirements without running afoul of the contracts.
+
+Matt Ford - It seems there are 2 potential sources of fear - making a decision you know the community won't like, and having a situation where there is a Last Call and all of the previous conversations the IAOC has had are rehashed. 
+
+Spencer Dawkins, from Jabber - I could know this, but I don't. The ADs for most areas hold office hours at some point during meeting weeks, to allow people to corner us and raise concerns, and ask for guidance. Does the IAOC do anything like that during meeting weeks? I'm sympathetic to Bob's point that the community doesn't have a lot of visibility (and that solving that problem shouldn't require plenary time) ...
+
+Alissa - Does it translate into more people wanting to participate in the IAOC? Is that framed properly? Make sure the information is available in email and on the website, but that's not going to inspire people who don't care about administrative issues to volunteer. Expecting to rely on volunteers for this large volume of work is unreasonable. If people can spend time on the technical work, that would be a success. There are multiple different sources, and we can change the expectations.
+
+Jari, from Jabber - I'd break the issue into three - 1/ community knowing more 2/ ability to affect things (e.g., know stuff early enough that you can have an effect in a decision) 3/ this translating to bigger willingness to participate in IAOC input/work/etc. but i also agree with Alissa's "may be unreasonable to rely on volunteers" problem.
+
+Dave Crocker - Recognizing we're trying to describe the problem, but I think the suggestion about signaling what the IAOC is planning to do, like a Last Call, is worthy. But other things simply don't permit it. But doing that when it is possible seems like a very good idea. Having the IAOC document the basis for a decision, rather than the mere fact of it. For the mundane stuff, that's too much work, but for other things that might help the community.
+
+Staff and Volunteer Resource Issues {#staff}
+-----------------------------------
+
+Slide 8. Staff and volunteer resource issues
+
+* IAD workload is (much) more than a full-time job, but we have one staff person allocated to it.
+* IASA tasks touch on a wider variety of topics and require more different kinds of expertise than 10 years ago (visa issues, local social/political/health issues, new modes of fundraising, etc.), but the job descriptions and skill sets of staff and volunteers do 
+not always match these needs.
+* Very few community members have the time, support, and interest to stand for the IAOC (or even participate in administrative discussions, unless something goes astray), and many who do are self-funding their work.
+
+Not just the IAOC has trouble finding qualified volunteers
+
+Stephen - IAOC subcommittees - not clear who is involved/serving, not sure what effort is required/expended (transparency)
+
+Lack of encouragement of/participation in subcommittees might be a disincentive for IAOC participation
+
+Joe Hall - Do we conduct exit interviews? 
+
+Alissa - No since no IAD has exited. 
+
+Alissa - Need to understand requirements/dependencies on contractors and other support structure to really understand how things work - it is complicated and not generally well understood
+
+Robert Sparks - Draw a sharper distinction between volunteering for IAOC and for things like tools, as shows on structural slide earlier.
+
+Leslie (?) - Part of the point of having subcommittees is to draw in expertise in a particular area, without burdening them with the overall task of IAOC responsibility. The point there is that elaborating what kind of expertise is needed can be a bit of a challenge. There is a general challenge in elaborating what skills are needed for any of the areas of work here.
+
+Dave Crocker - The function of the committees seems to go pretty well, but sometimes there is a lack of clarity about scope and authority in relation to the IAOC. What kind of decision is being made. A recommendation that is subject to pretty easy reversal by the IAOC. This sometimes provides an undercurrent of doubt when discussions take place.
+
+
+
 Internal IAOC Organizational Issues {#IAOCorg}
 -----------------------------------
 
@@ -269,45 +386,5 @@ Bob - I agree with what Russ said, and it's important that the people who appoin
 Dave - +1 to that. And I've been reviewing the paper, and was pleased to see much of this. The ex officios need to be participants, for the extreme context they carry with them. But they just don't have the time, and the way to solve that is to increase the regular membership of the IAOC. 
 
 Leslie - Still collecting comments on the paper, so if you have more, please send them along.
-
-
-Funding Issues {#funding}
---------------
-
-Slide 12. Funding issues
-
-* Meeting fees are currently an important source of revenue, but remote participation and other factors may be responsible for declining in-person meeting attendance going forward. Even if fees were charged for remote participation, charging the same for remote and in-person attendance is unlikely to be a viable way to make up the difference.
-* While there has been a lot of sponsor support for, e.g., meeting hosting, getting support for the full sponsorship program is not easy. The value to sponsors is not always obvious, the IETF community is sometimes critical or unappreciative, and the same sponsors get tapped again and again for many related but different opportunities.
-* Relying heavily on meeting-based revenue is somewhat at odds with the fact that much of the IETF's work takes place outside of in-person meetings.
-* The IETF is increasingly relying on professional services to support its activities, causing expenses to grow.
-
-Jari - there's a new draft on funding issues {{I-D.arkko-ietf-finance-thoughts}}
-* costs are going up (more tools, new hotels, etc.), funding is flat, so long-term issue
-* operating expenses are not covered by meeting fees, so increased pressure on sponsorship, increased ISOC contribution
-
-Lou - perhaps meetings are self-standing (fees and sponsorships), and other sponsorships for other activities
-
-Gonzo - another possibility (long-term) is the IETF endowment
-- long-term sponsorship, such as Global Hosts
-
-Scott - given that the ietf is pretty much the major raison d'être of the isoc, what percentage of isoc expense are we?
-* looking a the posted ISOC 2015 budget - total budget $38M, IETF $9.4M (BALLPARK)
-* but IETF sees less than $3M
-
-Gonzo - maybe clarity is needed on accounting.  Send Gonzalo email if further details is needed.
-
-Leslie - We go back to the same people for support over and over again. How can we get out of that rut and find new companies. What is the right proportion for meeting-based revenue? What are the alternative methods to fund the non-meeting-based activities. Maybe there are things where we need to have things provided professionally, either through staff or contracted efforts. The structure of how we have funded ourselves in the past is in question because the direction we go may not work with that.
-
-Bob - One thing I've thought is that the model where we do look for sponsors is a good way of measuring support in the community. If that starts to dry up, it's probably a symptom of larger problems of us being no longer relevant. 
-
-Jari - This issue is one reason why it's good for the IETF to multiple sources of funding to stand on. I also submitted an I-D this morning with my view of the challenges in this space. {{I-D.arkko-ietf-finance-thoughts}}
-
-Suzanne - One of the big pieces of the puzzle to me; it's not even the specifics of where the expenses are coming from, but a mismatch between our activities and our funding model. One thing I've observed is that even explaining the need for diversity of funding is more complicated than it needs to be. We need to find a simpler story.
-
-Leslie - To follow on what Jari said vs what Bob said. If the IETF needs to ensure its ongoing relevance. Diversity is a good thing because it allows you to shift gears. To the question in the chat about registration fees being prohibitive for many, I actually think to the point of relevancy it would be good for the IETF to understand what it's offering. For me it's valuable to stay in touch with the engineers who understand how the Internet works. But I don't know how to tie that back to three meetings a year. I suspect this will never line up perfectly, but that doesn't take away the need for clarity.
-
-Gonzo - A couple of comments on organizations funding the IETF. We have the global hosts. If you think the level of funding we're getting, $500K a year--if you compare it to open-source projects, we could be getting a lot more money. The best way to support the IETF as an organization is to become a Global Host. But it's not just about money; there is printing T-shirts, social events; have to get the marketing departments involved. I think we could focus on just getting the money, and having someone else worry about the logistic problems.  Getting just the money while continuing to support the things we've come to expect like T-shirts and social events.
-
-Alia - I agree with Gonzalo's point having been involved in hosting a meeting. There is extra work involved, but there is a lot of risk as a meeting sponsor if you get anything wrong, and that's expertise IETFers don't have. And to relevance, it seems like there are 2 types of organizations we're looking for--involved in the Internet ecosystem, and those interested in standards. Figuring out how to do outreach to both of those would be helpful. The relevancy is critical to the sponsorship and funding aspects.
 
 
