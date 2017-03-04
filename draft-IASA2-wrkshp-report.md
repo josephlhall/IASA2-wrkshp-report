@@ -58,6 +58,13 @@ informative:
       org: IETF
     date: 2017
 
+  IASA-Org-Chart:
+    target: https://www.ietf.org/proceedings/interim-2017-iasa20-01/slides/slides-interim-2017-iasa20-01-sessa-iasa-20-workshops-03.pdf#page=5
+    title: "IASA 2.0 Workshop #1 Slide Deck; Slide 5: IASA Organizational Chart"
+    author:
+      org: IETF
+    date: 2017
+
 
 --- abstract
 
@@ -112,7 +119,7 @@ to everyone from the community and people who are or have worked in
 IETF-administrative roles. (Readers of this report who are less
 familiar with IETF administration are strongly encouraged to read BCP
 101 {{RFC4071}} {{I-D.daigle-iasa-retrospective}} and
-{{I-D.arkko-ietf-finance-thoughts}}.
+{{I-D.arkko-ietf-finance-thoughts}}.)
 
 The workshops were virtual meetings where the participants provided
 their experiences and suggestions.  The workshops primarily focused on
@@ -148,18 +155,18 @@ Organizational Structure {#org}
 
 In terms of organizational arrangements, the workshop chairs showed a
 slide that provided an organizational diagram of the relationships
-between various entities. (TK: do we want to embed the diagram or
-point to it?). In addition the IAOC relies on a number of
+between various entities {{IASA-Org-Chart}}.
+In addition, the IAOC relies on a number of
 subcommittees to get its work done -- Finance, Legal Management,
 Meetings, Technology Management, and RFP Committee in addition to any
-ad hoc committeess, which were not reflected in the diagram, noted one
+ad hoc committees -- which were not reflected in the diagram, noted one
 participant.
 
 Some workshop participants felt that the diagram generally reflected
 reality and that it illustrated the large number of moving pieces
 involved. It was pointed out that there are a lot of moving parts
 compared to 11 years ago when the IASA was formed, as IASA now "owns"
-certain functions that it did not, such as the Secretariat and RPC.
+certain functions that it did not at that time, such as the Secretariat and RPC.
 
 
 Workshop Goals {#goals}
@@ -215,7 +222,7 @@ Organization, ISOC/IETF: IETF participants are confused about who has policy aut
 
 Organization, ISOC/IETF: How does the IAOC get its policy instructions from the community? Is that clear enough for us all or not? The IAOC posts policy proposals to the IETF community for comment (e.g. the privacy policy or changed to the trust legal provisions). The IAOC only goes to the community for specific policy questions but does not get general 'please do this' from the community. In many cases the "policy from the IETF community" comes through the IESG as voiced by the IETF chair.  
 
-Organization, ISOC/IETF:  Where should some of the questions be asked (e.g. 'how many logos do we want on our badges?" "who drives/has responsibility for some specific functions". The general question - is it a "thin" IAOC that has mostly oversight of IAD or a "thick" IAOC that has administrative responsibilities - ie. who is driving the bus?
+Organization, ISOC/IETF:  Where should some of the questions be asked (e.g. 'how many logos do we want on our badges?" "who drives/has responsibility for some specific functions". The general question - is it a "thin" IAOC that has mostly oversight of IAD or a "thick" IAOC that has administrative responsibilities - i.e. who is driving the bus?
 
 
 
@@ -348,7 +355,7 @@ Organization, IAOC membership: Difficult to fill so many leadership positions.
 
 Organization, IAOC/IAD: To what extent is IAOC an oversight body (this might be managed as a workload issue)
 
-Organization, IETF/IAOC, communication: How does the IOAC get the policy instructions from the community? Who actually decides? Not clear. An issue that's been a sore point, has been debated.
+Organization, IETF/IAOC, communication: How does the IAOC get the policy instructions from the community? Who actually decides? Not clear. An issue that's been a sore point, has been debated.
 
 Organization, IAOC membership: If we want to look at changing the makeup of the IAOC, we need to have a clear understanding of the roles and responsibilities. Apart from scoping the IAOC well, we need to revisit how we populate the IAOC if we want it to be able to do more than the very thinnest of oversight roles.
 
