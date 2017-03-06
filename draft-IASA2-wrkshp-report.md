@@ -68,16 +68,15 @@ informative:
 
 --- abstract
 
-This is a Workshop Report for the IETF Administrative Support Activity
+This is the Workshop Report for the IETF Administrative Support Activity
 2.0 (IASA 2.0) Virtual Workshops, held on 28 February 2017 at 1100 UT
-and 1600 UT. The original IETF Administrative Support Activity (IASA,
-{{RFC4071}}) was created ten years ago, and since been subject to some
+and 1600 UT. The original IETF Administrative Support Activity (IASA) 
+was created ten years ago, and since has been subject to some
 reflection. In the intervening years, there has been considerable
 change in the necessary tasks of IETF administration and in the world
-around the IETF {{I-D.daigle-iasa-retrospective}} and in how the IETF
-raises funds and finances its work
-{{I-D.arkko-ietf-finance-thoughts}}.  The IASA 2.0 process seeks to
-address what administrative arrangements will best support the IETF
+around the IETF, and in how the IETF
+raises funds and finances its work.  The IASA 2.0 process seeks to
+address which administrative arrangements will best support the IETF
 going forward.
 
 --- middle
@@ -85,45 +84,38 @@ going forward.
 Introduction {#intro}
 ============
 
-In 2016, IETF leadership began a discussion of the need to review and
-possibly rework administrative arrangements at the IETF, dubbed the
-IETF Administrative Support Activity 2.0 project {{Arkko-2016}}.  A
-series of virtual workshops related to this effort were scheduled and
-held on 28 February 2017 at 11:00 UTC and 16:00 UTC. (The agenda,
-slides, and minutes from the two meetings are available at the
-workshop proceedings {{IASA20-proceedings}}. Recordings of the two
-workshops are also available {{IASA20-1100UT-rec}}
-{{IASA20-1600UT-rec}}.)
-
-For background, the IASA arrangements were created more than ten years
-ago, when the IETF initially took charge of its own administration
-{{RFC4071}}. In the intervening years, there has been considerable
-change in the necessary tasks of IETF administration and in the world
+The IETF Administrative Support Activity (IASA) arrangements were created 
+more than ten years ago, when the IETF initially took charge of its own 
+administration {{RFC4071}}. In the intervening years, there has been considerable
+change in the tasks of IETF administration and in the world
 around the IETF {{I-D.daigle-iasa-retrospective}} and in how the IETF
-raises funds and finances its work
-{{I-D.arkko-ietf-finance-thoughts}}.  The IASA 2.0 process seeks to
-address what administrative arrangements will best support the IETF
-going forward.
+raises funds and finances its work {{I-D.arkko-ietf-finance-thoughts}}.  
 
-To make changes, the IETF community first needed to understand what
-challenges or missed opportunities there are in the current system. A
-number of areas currently face challenges: structural issues regarding
+In 2016, IETF leadership began a discussion to review and possibly 
+rework administrative arrangements at the IETF, dubbed the IETF 
+Administrative Support Activity 2.0 project {{Arkko-2016}}. The 
+IASA 2.0 process seeks to address what administrative arrangements 
+that will best support the IETF going forward. 
+
+To make changes, the IETF community first needs to understand the
+challenges and/or missed opportunities within the current system. A
+number of areas face challenges: structural issues regarding
 the roles and interfaces between the IETF, the IAOC, ISOC, the IESG,
-and contractors; challenges to the IETF funding model; availability of
+and contractors; the IETF funding model; availability of
 staff, contractor, and volunteer resources compared to the
-administrative workload; and, internal IAOC organizational issues.
+administrative workload; and internal IAOC organizational issues.
 
-To get input from the community about what problems exist in these
-areas (and others) IETF leadership set up two virtual workshops, open
-to everyone from the community and people who are or have worked in
-IETF-administrative roles. (Readers of this report who are less
-familiar with IETF administration are strongly encouraged to read BCP
-101 {{RFC4071}} {{I-D.daigle-iasa-retrospective}} and
-{{I-D.arkko-ietf-finance-thoughts}}.)
+To get input from the community to identify challenges and opportunities in these
+and other areas, the IETF leadership set up two virtual workshops open
+to everyone in the IETF community and to people who are or have worked in
+IETF-administrative roles. These virtual workshops were held on 28 
+February 2017 at 11:00 UTC and 16:00 UTC. The agenda, slides, and 
+minutes from the two meetings are available at the workshop proceedings 
+{{IASA20-proceedings}}. Recordings of the two workshops are also 
+available {{IASA20-1100UT-rec}} {{IASA20-1600UT-rec}}.
 
-The workshops were virtual meetings where the participants provided
-their experiences and suggestions.  The workshops primarily focused on
-identifying current challenges and opportunities.  Proposed changes
+At these workshops, the participants provided
+their experiences and suggestions.  Proposed changes
 and solutions will be discussed and dealt with in a later phase of the
 IASA 2.0 project.
 
@@ -143,6 +135,9 @@ The following acronyms will be heavily used in the discussion below:
   IETF-selected committee that oversees and directs IASA. Accountable
   to the IETF community.
 
+* ISOC - The Internet Society - An organization that assists the IETF
+  with legal, administrative, and funding tasks. 
+
 * IAD - IETF Administrative Director - The sole staff member
   responsible for carrying out the work of the IASA. An ISOC employee.
 
@@ -153,36 +148,21 @@ The following acronyms will be heavily used in the discussion below:
 Organizational Structure {#org}
 ------------------------
 
-In terms of organizational arrangements, the workshop chairs showed a
-slide that provided an organizational diagram of the relationships
-between various entities {{IASA-Org-Chart}}.
+In terms of organizational arrangements, the workshop chairs 
+provided a diagram that captured most of the organizational relationships
+among various entities {{IASA-Org-Chart}}.
 In addition, the IAOC relies on a number of
 subcommittees to get its work done -- Finance, Legal Management,
 Meetings, Technology Management, and RFP Committee in addition to any
-ad hoc committees -- which were not reflected in the diagram, noted one
-participant.
+ad hoc committees -- the connections between these committees and the IAD 
+are not reflected in the diagram. 
 
 Some workshop participants felt that the diagram generally reflected
 reality and that it illustrated the large number of moving pieces
 involved. It was pointed out that there are a lot of moving parts
 compared to 11 years ago when the IASA was formed, as IASA now "owns"
-certain functions that it did not at that time, such as the Secretariat and RPC.
-
-
-Workshop Goals {#goals}
-==============
-
-Slide 6 - Workshop Goals
-
-* Gain fuller understanding of -
-    * Challenges and missed opportunities in current IASA
-    * What is working well 
-    * Likely future needs
-* Save solutioneering for a later time.
-
-Gonzo - Here to brainstorm
-
-Leslie - Good to capture the issues; the mailing list is there and we can continue to capture. Today is to grasp some of the larger issues.
+certain functions that it did not at that time, such as the Secretariat and 
+IETF Trust.
 
 
 Issues Raised {#issues}
@@ -377,6 +357,22 @@ Organization, Trust: Size+composition should be determined by role of the Trust,
 - currently, the trust does not do all that much so having separate people would have a bunch of people with not much to do
 
 
+Security Considerations {#security}
+=======================
 
+This document describes the challenges and opportunities of the IETF's administrative
+support activity.  It introduces no security considerations for the Internet.
+
+
+IANA Considerations {#IANA}
+===================
+
+This document has no actions for IANA.
+
+
+Acknowledgements {#acknowledgements}
+================
+
+TBD
 
 
