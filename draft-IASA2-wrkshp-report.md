@@ -340,7 +340,7 @@ IANA Considerations {#IANA}
 This document has no actions for IANA.
 
 
-Acknowledgements {#acknowledgements}
+Acknowledgments {#acknowledgments}
 ================
 
 TBD
