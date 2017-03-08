@@ -297,35 +297,41 @@ following issues related to the IETF funding model:
 * The IETF is increasingly relying on professional services to support 
   its activities, causing expenses to grow.
 
-Funding issues faced by the IETF include: increasing costs due to more
-tools, new hotels, etc.; flat funding; meeting fees that do not cover
+Workshop participants discussed funding issues faced by the IETF,
+including: increasing costs due to more tools, new hotels, etc.;
+relatively flat growth in funding; meeting fees that do not cover
 operating expenses so that there is increased pressure on sponsorship
 and increased ISOC contributions. These funding issues are covered in
 {{I-D.arkko-ietf-finance-thoughts}}.
 
-Funding, from ISOC, current: Posted ISOC 2015 budget - total budget
-$38M, IETF $9.4M (BALLPARK), but IETF sees less than $3M.
+For example, participants noted that the 2015 IETF budget seems larger
+than the amount of funding IETF explicitly receives from ISOC.
+Funding, from ISOC as posted in the ISOC 2015 budget was estimated
+("ballpark") at $9.4M out of a total ISOC budget of $38M, but IETF
+sees less than $3M. Clearly, more clarity is needed on funding.
 
-Funding, clarity: More clarity is needed on funding. 
+Some workshop participants commented on how willingness of sponsors to
+funde IETF is a useful measure of the IETF's relevance. That is,
+looking for sponsors is a good way to measure support in the
+community. If sponsorship starts to dry up, it may be a symptom of
+larger problems, that the IETF is no longer relevant or at least
+becoming less relevant. The IETF needs to ensure its ongoing
+relevance. The IETF needs to understand what it's offering. One
+commentor stated that while it's valuable to stay in touch with the
+engineers who understand how the Internet works, that may not justify
+three meetings a year. It was felt that his will never line up
+perfectly, but that fact doesn't take away the need for clarity.
 
-Funding, relevance: Looking for sponsors is a good way to measure
-support in the community. If sponsorship starts to dry up, it may be a
-symptom of larger problems, that the IETF is no longer relevant. The
-IETF needs to ensure its ongoing relevance. The IETF needs to
-understand what it's offering. Anecdote: it's valuable to stay in
-touch with the engineers who understand how the Internet works, but I
-don't know how to tie that back to three meetings a year. I suspect
-this will never line up perfectly, but that doesn't take away the need
-for clarity.
-
-Funding, sources: It's good for the IETF to multiple sources of
-funding to stand on. Diversity allows you to shift gears: IETF
-endowment; Long-term sponsorship, such as Global Hosts, which is the
+In terms of funding source, it was felt by some that it is generally
+good for the IETF to have multiple sources of funding on which to
+stand.  Diversity in funding sources allows IETF to shift gears: IETF
+endowment for longer-term stability; Long-term sponsorship, such as
+the Global Host program ($100k per year for 10 years), which is the
 best way to support the IETF as an organization; meetings can be
 funded through fees (although registration fees are prohibitive for
 many) and sponsorships. However, explaining the need for diversity of
-funding is more complicated than it needs to be. We need to find a
-simpler story.
+funding is more complicated than it needs to be. We probably need to
+find a simpler story.
 
 Funding, sources: Mismatch between our activities and our funding
 model, which is mainly meeting fees. What is the right proportion for
