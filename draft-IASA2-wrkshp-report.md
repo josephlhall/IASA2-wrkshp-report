@@ -59,8 +59,15 @@ informative:
     date: 2017
 
   IASA-Org-Chart:
-    target: https://www.ietf.org/proceedings/interim-2017-iasa20-01/slides/slides-interim-2017-iasa20-01-sessa-iasa-20-workshops-03.pdf#page=5
-    title: "IASA 2.0 Workshop #1 Slide Deck; Slide 5: IASA Organizational Chart"
+    target: https://www.ietf.org/proceedings/interim-2017-iasa20-01/slides/slides-interim-2017-iasa20-01-sessa-iasa-20-workshop-2-02.pdf#page=5
+    title: "IASA 2.0 Workshop #2 Slide Deck; Slide 5: IASA Organizational Chart"
+    author:
+      org: IETF
+    date: 2017
+
+  IASA2-Workshop-Slides:
+    target: https://www.ietf.org/proceedings/interim-2017-iasa20-01/slides/slides-interim-2017-iasa20-01-sessa-iasa-20-workshop-2-02.pdf
+    title: "IASA 2.0 Workshop #2 Slide Deck"
     author:
       org: IETF
     date: 2017
@@ -99,9 +106,9 @@ that will best support the IETF going forward.
 
 To make changes, the IETF community first needs to understand the
 challenges and/or missed opportunities within the current system. A
-number of areas face challenges: structural issues regarding
+number of areas face challenges: structural and organizational issues regarding
 the roles and interfaces between the IETF, the IAOC, ISOC, the IESG,
-and contractors; the IETF funding model; availability of
+and contractors; the IETF funding model; transparency and communication issues among the many IASA moving pieces; availability of
 staff, contractor, and volunteer resources compared to the
 administrative workload; and internal IAOC organizational issues.
 
@@ -175,7 +182,8 @@ in terms of decreasing priority given input at the workshops.
 Structural and Organizational Issues {#structure}
 -----------------
 
-Slide 10. Structural issues between the IETF, the IAOC, ISOC, the IESG, and contractors
+Slide 10 of the slide deck {{IASA2-Workshop-Slides}} discussed the following structural issues
+between the IETF, the IAOC, ISOC, the IESG, and contractors:
 
 * The line between the IETF and ISOC is not organizationally clear-cut, 
   which has led to issues around transparency, allocation of staff time 
@@ -190,15 +198,79 @@ Slide 10. Structural issues between the IETF, the IAOC, ISOC, the IESG, and cont
     * can result in those soliciting sponsorships and donations having a lack 
       of familiarity with IETF work.
 
-Organization, ISOC/IETF: Some items that are branded IETF, like the IETF Journal, are ISOC driven and funded, and actually do not belong to the IETF. It is not clear who is doing what on behalf of whom. IASA 2.0 discussions should focus on what the *IETF* is doing. Other ISOC-funded activities include the Ombudsteam, which was requested by IETF and should show up in an accounting of IETF resources; and ISOC Fellows and Policy Fellows, which are ISOC-funded and controlled programs that encourage technical ISOC members and policy experts from developing economies to interact with the IETF, and that should not show up in an IETF budget. (AJM: This sounds like a branding issue to me. Who owns and controls the IETF brand?)
+There was discussion during the virtual workshop about organizational
+issues between ISOC and IETF. For example, some items that are branded
+IETF, like the IETF Journal, are ISOC driven and funded, and actually
+do not belong to the IETF.  It is often not clear who is doing what on
+behalf of whom; a comment was made that IASA 2.0 discussions should
+focus on what the *IETF* is doing. Other ISOC-funded activities
+include the Ombudsteam, which was requested by IETF and should show up
+in an accounting of IETF resources; and ISOC Fellows and Policy
+Fellows, which are ISOC-funded and controlled programs that encourage
+technical ISOC members and policy experts from developing economies to
+interact with the IETF, and that should not show up in an IETF
+budget. This sounded like a branding issue at times; while the IETF
+Trust holds IETF trade marks, is the IETF brand and the contours of
+what it encompasses clear?
 
-Organization, ISOC/IETF: IETF participants are confused about who has policy authority. If we want to change the structure of what we do for sponsors, who has the authority to make that decision? IESG? IAOC? Community consensus? There is a gap in terms of the IAOC being the body that carries this out. Who defines the contents of ISOC activities that are visible to the outside world, like the IETF Fellows, the IETF Journal, and the lunch meetings that are part of ISOC programming? Who decides how to drive those things? Should those should be included in the budget? How does the IAOC get its policy instructions from the IETF community? The IAOC posts policy proposals to the IETF community for comment (e.g. the privacy policy or changes to the trust legal provisions). The IAOC only goes to the community for specific policy questions, but does not get general 'please do this' from the community. In many cases the "policy from the IETF community" comes through the IESG as voiced by the IETF chair.  Where should some of the questions be asked (e.g. 'how many logos do we want on our badges?" "who drives/has responsibility for some specific functions". Do we want a "thin" IAOC that has mostly oversight of IAD or a "thick" IAOC that has administrative responsibilities - i.e. who is driving the bus?
+A related but distinct issue arose around control and policy authority
+among the various IASA components. IETF participants are confused
+about who has policy authority. For example, if the IETF community
+wants to change the structure of relationships with sponsors, who has
+the authority to make that decision?  IESG? IAOC?  Community
+consensus?  It's unclear.  Participants said that there is a gap in
+terms of the IAOC being the body that carries this out.  Who defines
+the contents of ISOC activities that are visible to the outside world,
+like the IETF Fellows, the IETF Journal, and the lunch meetings that
+are part of ISOC programming? Who decides how to drive those things?
+Should those be included in the budget? How does the IAOC get its
+policy instructions from the IETF community? The IAOC only goes to the
+community for specific policy questions -- e.g., the privacy policy or
+changes to the trust legal provisions -- but does not get general
+"please do this" feedback from the community. In many cases the
+"policy from the IETF community" comes through the IESG as voiced by
+the IETF chair.  There was a lack of clarity around even where some
+questions should be asked (e.g. "how many logos do we want on our
+badges?" or "who drives/has responsibility for some specific
+functions?"). An important question is whether or not the IETF
+community wants a "thin" IAOC that has mostly oversight of IAD or a
+"thick" IAOC that has administrative responsibilities -- i.e. "who is
+driving the bus?"
 
-Accounting, ISOC/Control of ISOC: Improvements to accounting have helped increase accuracy, and the accounting budget has increased over the last 5 or 6 years to recognize ISOC staff contributions, but accounting needs more work. It is not clear who is in the driver's seat. If we (AJM: Who is we? IAOC? Jari made the original comment) don't like a function, can we delete it? or does that require IETF participation? Some things are very clearly IETF topics, and then there are some that fall in between IETF and ISOC, and then there are some that are ISOC. Control needs to be aligned with accounting so IETF can decide. 
+In terms of accounting structure, there have been improvements to
+accounting that have helped increase accuracy, and the accounting
+budget has increased over the last 5 or 6 years to recognize ISOC
+staff contributions, but appropriate accounting between ISOC and IETF
+needs more work. It is not clear who is in the driver's seat. One
+participant stated it as: "If we don't like a function, can we delete
+it? or does that require IETF participation?"  Some things are very
+clearly IETF topics, and then there are some that fall in between IETF
+and ISOC, and then there are some that are purely ISOC. Control needs
+to be aligned with accounting so IETF can decide.
 
-Marketing communication, IETF, IETF/ISOC: How the IETF is represented to the outside world -- donors, media, other organizations and communities -- needs to be clearer, even if this is currently an ISOC activity. People don't understand the difference between ISOC and IETF. Maybe not number 1 priority.
+On the marketing side of organization and structure issues, workshop
+participants discussed how the IETF is represented to the outside
+world -- donors, media, other organizations and communities -- and
+some felt that it needs to be clearer, even if this is currently an
+ISOC activity. People don't understand the difference between ISOC and
+IETF. Maybe not number 1 priority in the sense that we have to
+understand it before we can correctly communicate it.
 
-Organization, IETF, legal structure: The structure of IETF, which is not well-defined and thus flexible, provides a benefit to the Internet. Given the proclivities of engineers towards structure and formality, working to improve IASA could make the IETF more structured and thus less appealing to some kinds of contributors. We need clarity that institutionalizes that accessibility to all participants, which will be tricky. One participant felt that we do ourselves a disservice by this long-standing confusion about whether IETF is an organization. People within the community know what is meant by the IETF. More formality is not necessary. Any changes to the organization of the IETF will have practical implications, such as impacting legal transactions, which generally go through ISOC.
+Some felt that the lack of rigid formality in the organization and
+structure was not necessarily a bad thing. Some felt that the
+structure of IETF, which is not well-defined and thus flexible,
+provides a benefit to the Internet. One commentor stated that given
+the proclivities of engineers towards structure and formality, working
+to improve IASA could make the IETF more structured and thus less
+appealing to some kinds of contributors. We need clarity that
+institutionalizes this level accessibility to all participants, which
+will be tricky. In contrast, another participant felt that we do
+ourselves a disservice by this long-standing confusion about whether
+IETF is an organization; they felt that people within the community
+know what is meant by the IETF and that more formality is not
+necessary. The point was made that any changes to the organization of
+the IETF will have practical implications, such as impacting legal
+transactions, which generally go through ISOC.
 
 
 Funding Issues {#funding}
