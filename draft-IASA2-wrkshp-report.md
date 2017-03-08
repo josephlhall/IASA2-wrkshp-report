@@ -311,7 +311,7 @@ Funding, from ISOC as posted in the ISOC 2015 budget was estimated
 sees less than $3M. Clearly, more clarity is needed on funding.
 
 Some workshop participants commented on how willingness of sponsors to
-funde IETF is a useful measure of the IETF's relevance. That is,
+fund IETF is a useful measure of the IETF's relevance. That is,
 looking for sponsors is a good way to measure support in the
 community. If sponsorship starts to dry up, it may be a symptom of
 larger problems, that the IETF is no longer relevant or at least
@@ -322,59 +322,75 @@ engineers who understand how the Internet works, that may not justify
 three meetings a year. It was felt that his will never line up
 perfectly, but that fact doesn't take away the need for clarity.
 
-In terms of funding source, it was felt by some that it is generally
-good for the IETF to have multiple sources of funding on which to
-stand.  Diversity in funding sources allows IETF to shift gears: IETF
-endowment for longer-term stability; Long-term sponsorship, such as
-the Global Host program ($100k per year for 10 years), which is the
-best way to support the IETF as an organization; meetings can be
-funded through fees (although registration fees are prohibitive for
-many) and sponsorships. However, explaining the need for diversity of
-funding is more complicated than it needs to be. We probably need to
-find a simpler story.
+In terms of funding sources, participants commented that it is
+generally good for the IETF to have multiple sources of funding on
+which to stand.  Diversity in funding sources allows IETF to shift
+gears: IETF endowment can provide longer-term stability; Long-term
+sponsorship, such as the Global Host program ($100k per year for 10
+years, also stated as the best way to support the IETF as an
+organization); meetings can be funded through fees (although
+registration fees are prohibitive for many) and sponsorships. However,
+explaining the need for diversity of funding is more complicated than
+it needs to be. We probably need to find a simpler story.
 
-Funding, sources: Mismatch between our activities and our funding
-model, which is mainly meeting fees. What is the right proportion for
-meeting-based revenue? What are the alternative methods to fund the
-non-meeting-based activities? Sponsorships? Do we hire staff or
-contract to provide assistance?
+Specifically, participants discussed a potential mismatch between the
+IETF's activities and its funding model, which is mainly constituted
+from meeting fees. Questions raised included: What is the right
+proportion for meeting-based revenue? What are the alternative methods
+to fund the non-meeting-based activities?  Sponsorships?  Do we hire
+staff or contract to provide assistance?
 
-Funding, sources: If you compare the level of funding that the IETF
-receives through Global Hosts ($500K/year) to that of open-source
-projects, the IETF could be getting a lot more money.
+In terms of the relative amounts of funding from sources, a commentor
+mentioned that the level of funding that the IETF receives through
+Global Hosts ($500K/year) is much smaller compared to the sponsorship
+funding of many open-source projects, and the IETF could be getting a
+lot more money through this source.
 
-Funding, sources, sponsorship: Meeting sponsors are also responsible
-for extra work like printing T-shirts and staging social events, and
-there is a lot of risk to a meeting sponsor if they get anything
-wrong. It's an area of expertise that few IETF participants have, and
-they have to get their marketing departments involved. If we could
-focus on just getting the money, and having someone else worry about
-the logistic problems, it would help.
+Further, in terms of sponsorship funding, it's not often a cut-and-dry
+proposition, requiring a larger, more diffuse commitment than a sponsor
+may originally expect. For example, meeting sponsors are also
+responsible for extra work like printing T-shirts and staging social
+events, and there is a lot of risk to a meeting sponsor if they get
+anything wrong (presumably in terms of backlash from the community).
+This aspect of logistics and event programming is an area of expertise
+that few IETF participants have, so they often have to get their
+marketing departments involved, for example. If sponsors could focus
+on just securing the money, where someone else would worry about the
+logistic problems, that would help.
 
-Funding, solicitation, marketing communication: Need to be able to
+There were also issues discussed with communication to potential
+sponsors and funders what they are agreeing to.  Need to be able to
 clearly state what the IETF is asking for, and what the relevance is
-for the potential sponsor. Who is responsible for these messages? How
-is the outreach done? It seems like there are two types of
-organizations we're looking for--those involved in the Internet
-ecosystem, and those interested in standards. Figuring out how to do
-outreach to both of those would be helpful. We go back to the same
-people for support over and over again. How do we find new companies?
-Outreach is split between the different parties. When ISOC is raising
-funds on behalf of the IETF, it is sub-contractor. This needs to be
-clearly communicated.
+for the potential sponsor. It's unclear now who is responsible for
+communicating these messages to funding sources. It's unclear how this
+outreach is done and if it is done well, especially for large
+sponsors. One commentor states that it seems like there are two types
+of organizations the IETF is looking for -- those involved in the
+Internet ecosystem, and those interested in standards.  Honing
+outreach to both of those types of organizations would be
+helpful. Another commentor stated that the same sponsors are asked for
+support over and over again.  Further, how are new companies sought
+out and developed for potential support?  Outreach appears to be split
+between the various IASA parties.  A commentor stated that when ISOC
+is raising funds on behalf of the IETF, it is sub-contractor; this
+needs to be clearly communicated.
 
-Funding, sponsor perspective: A Global Host considers it unusual to
-fund the IETF through a third party, and wonders if the IETF is
-getting the money right away, and if the structure makes sense. The
-structure makes it difficult to contribute to the IETF endowment (AJM:
-How? Ask Livingood for particulars). Maybe some different level of
-financial and administrative separation would be helpful.
+Participants offered up some perspective as current and past IETF
+sponsors through their own organization.  One Global Host considers it
+unusual to fund the IETF through a third party (ISOC), and is left
+guessing as to when the IETF might receive the money they contribute,
+and, finally, if this indirect structure makes sense.  The structure
+makes it difficult to contribute to the IETF endowment (AJM: How? Ask
+Livingood for particulars). Maybe some different level of financial
+and administrative separation would be helpful.
 
-Funding, solicitation by participants: An IETF participant may be more
+Some commentors talked about what kinds of support were easier to
+secure from their organizations.  An IETF participant may be more
 inclined to seek, and find it easier to gain, sponsorship for easily
-communicated and defined activities, like Systers Lunch. For
-activities like these, IETF participants may do a better job than
-staffers hired to solicit funding.
+communicated and defined activities, for example, the Systers
+Lunch. For activities like these, IETF participants may do a better
+job than staffers hired to solicit funding, and we should distribute
+as best as we can.
 
 
 
@@ -382,7 +398,7 @@ Transparency and Communication Issues {#transparency}
 -------------------
 
 Slide 9 of the slide deck {{IASA2-Workshop-Slides}} discussed the
-following issues involving trasparency and communication issues:
+following issues involving transparency and communication issues:
 
 * IAOC has typically been perceived to operate less transparently 
   than what is the norm for IETF processes and other IETF leadership bodies.
