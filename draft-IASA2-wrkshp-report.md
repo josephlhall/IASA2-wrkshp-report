@@ -398,7 +398,7 @@ Transparency and Communication Issues {#transparency}
 -------------------
 
 Slide 9 of the slide deck {{IASA2-Workshop-Slides}} discussed the
-following issues involving transparency and communication issues:
+following issues involving transparency and communication:
 
 * IAOC has typically been perceived to operate less transparently 
   than what is the norm for IETF processes and other IETF leadership bodies.
@@ -408,35 +408,41 @@ following issues involving transparency and communication issues:
 * Requirements from the community about IAOC transparency expectations 
   are not clear.
 
-Communication, IAOC, IASA to IETF: IASA has lagged progress of groups
-like IESG, who has made agendas and meetings open. The IETF community
-should document the transparency requirement clearly, e.g.  set the
-default to be open, such as open meetings, and publish an exception
-list. Hotel contracts aren't shown due to confidentiality agreements,
-and there have been some arguments about that.  Fear was identified as
-a significant cause of lack of transparency. 2 potential sources of
-fear - making a decision you know the community won't like, and having
-a situation where there is a Last Call and all of the previous
-conversations the IAOC has had are rehashed.
+The IAOC and IASA could better communicate with the IETF community,
+some said. IASA has lagged progress of groups like IESG, who have made
+agendas and meetings open.  The IETF community should document the
+transparency requirement clearly, e.g., set the default to be open,
+such as open meetings and materials, and publish an exception list for
+confidential or sensitive matters. Hotel contracts aren't shown due to
+confidentiality agreements, and there have been some arguments about
+that reducing transparency of meeting deals.  Fear was identified as a
+significant cause of lack of transparency.  Two potential sources of
+fear were offered: making a decision you know the community won't
+like, and having a situation where there is a Last Call and all of the
+previous conversations the IAOC has had are rehashed.
 
-Communication, IAOC to IETF: Understanding what needs to improve and
-where it can improve. The IAOC could do better in telling the
-community what it does and how it makes decisions. Now that we're
+There are specific issues related to IAOC communication to IETF.  Some
+said that we could use a better understanding what needs to improve
+and where it can improve. The IAOC could do better in telling the
+community what it does and how it makes decisions.  Now that we're
 limiting time in the plenary, the community doesn't get to see the
-IAOC very much so they don't see them or understand what they
-do. However, participants have said that they don't want exposure to
-the boring details at the plenary, which are boring until they're not,
-and everyone is surprised. How do we encourage the IETF community to
-understand the IAOC and role of the IASA? At the meetings, the IAOC
+IAOC very much reducing the opportunity for the community to see them
+or understand what they do. However, participants have said that they
+don't want exposure to the boring details at the plenary -- "which are
+boring until they're not, and everyone is surprised."  How do we
+encourage the IETF community to understand the IAOC and role of the
+IASA to best reduce these poor outcomes?  At the meetings, the IAOC
 could hold info sessions or office hours, to allow people to raise
-concerns and ask for guidance. This would help the community get to
-know the IAOC and have people volunteer. IAOC needs to provide insight
-into what the IAOC is going to do, as opposed to what it has just
-done. Telegraphing for a few years may improve the level of
-education. It would help with transparency without running afoul of
-the confidentiality of contracts. A Last Call for some IAOC things is
-worthy, but other, more mundane tasks don't need it. Have the IAOC
-document the basis for a decision, rather than the mere fact of it.
+concerns and ask for guidance.  This would help the community get to
+know the IAOC and have people volunteer.  Some felt that the IAOC
+needs to provide insight into what the IAOC is going to do, as opposed
+to what it has just done.  Telegraphing for a few years may improve
+the level of education.  It would help with transparency without
+running afoul of the confidentiality of contracts.  For example, some
+felt that a Last Call for some IAOC things is worthwhile, but other,
+more mundane tasks don't need it.  A participant mentioned that the
+IAOC should document the basis for a decision, rather than the mere
+fact of it.
 
 
 
