@@ -552,7 +552,7 @@ raised during the workshops. When asked if the Trust could be smaller,
 workshop participants responded that size was not an issue aside from
 getting quorum occasionally. The size and composition of the IETF
 Trust should be determined by its role, which needs to be
-discussed. Currently, the IETF Trust currently has a light workload.
+discussed. Currently, the IETF Trust has a light workload.
 
 Security Considerations {#security}
 =======================
