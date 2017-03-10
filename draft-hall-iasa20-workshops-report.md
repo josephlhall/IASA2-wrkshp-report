@@ -168,7 +168,7 @@ these committees and the IAD are not reflected in the diagram.
 
 Some workshop participants felt that the diagram generally reflected
 reality and that it illustrated the large number of moving pieces
-involved. It was pointed out that there are a lot of moving parts
+involved. A workshop participant said that there are a lot of moving parts
 compared to 11 years ago when the IASA was formed, as IASA now
 encompasses certain functions that it did not at that time, such as
 the Secretariat and the RFC Production Center.
@@ -200,69 +200,84 @@ IESG, and contractors:
     * can result in those soliciting sponsorships and donations having a lack 
       of familiarity with IETF work.
 
-There was discussion during the virtual workshop about organizational
-issues between ISOC and IETF. For example, some items that are branded
+Workshop participants discussed organizational
+issues between ISOC and IETF. For example, participants noted some items
+are branded
 IETF, like the IETF Journal, are ISOC driven and funded, and are not
-directed by the IETF community.  It is often not clear who is doing
+directed by the IETF community.  One participant said it is often not clear who is doing
 what on behalf of whom; a comment was made that IASA 2.0 discussions
 should focus on what the *IETF* is doing. Other ISOC-funded activities
-include participation in the Ombudsteam, which was requested by IETF
-and should show up in an accounting of IETF resources; and ISOC
-Fellows and Policy Fellows, which are ISOC-funded and controlled
+include participation in the Ombudsteam -- which was requested by IETF
+and should show up in an accounting of IETF resources -- and ISOC
+Fellows and Policy Fellows -- which are ISOC-funded and controlled
 programs that encourage technical ISOC members and policy experts from
-developing economies to interact with the IETF, and that should not
-show up in an IETF budget. This sounded like a branding issue at
-times; while the IETF Trust holds IETF trademarks, is the IETF brand
-and the contours of what it encompasses clear? Who defines the
+developing economies to interact with the IETF -- that should not
+show up in an IETF budget. A commentor mentioned that this sounded like
+a branding issue at
+times: while the IETF Trust holds IETF trademarks, is the IETF brand
+and the contours of what it encompasses clear? The commentor further
+asked: who defines the
 contents of ISOC activities that are visible to the outside world? Who
 decides how to drive those things?  Should those be included in the
 budget?
 
 A related but distinct issue arose around control and policy authority
-among the various IASA components. IETF participants are confused
-about who has policy authority. For example, if the IETF community
+among the various IASA components. One workshop participant said that the
+IETF community is confused
+about who has policy authority. They continued: for example, if the IETF
+community
 wants to change the structure of relationships with sponsors, who has
 the authority to make that decision?  IESG? IAOC?  Community
-consensus?  It's unclear.  Participants said that there is a gap in
+consensus?  This participant felt that this is unclear.  A participant
+said that there is a gap in
 terms of the IAOC being the body that carries this out.  How does the
 IAOC get its policy instructions from the IETF community? The IAOC
 only goes to the community for specific policy questions -- e.g., the
 privacy policy or changes to the trust legal provisions -- but does
-not get general "please do this" feedback from the community. In many
+not get general "please do this" feedback from the community. A commentor
+stated: In many
 cases the "policy from the IETF community" comes through the IESG as
-voiced by the IETF chair.  There was a lack of clarity around even
+voiced by the IETF chair.  Another workshop participant felt that
+there was a lack of clarity around even
 where some questions should be asked (e.g. "how many logos do we want
 on our badges?" or "who drives/has responsibility for some specific
-functions?"). An important question is whether or not the IETF
+functions?"). That commentor felt that an important question is whether
+or not the IETF
 community wants a "thin" IAOC that has mostly oversight of the IAD or
 a "thick" IAOC that has administrative responsibilities -- i.e. "who
 is driving the bus?"
 
-In terms of accounting structure, there have been improvements to
+In terms of accounting structure, the discussion at the virtual workshop
+concluded that there have been improvements to
 accounting that have helped increase accuracy, and the IETF budget has
 been adjusted over the last 5 or 6 years to recognize ISOC staff
 contributions, but appropriate accounting between ISOC and IETF needs
-more work. It is not clear who is in the driver's seat. One
+more work. One commentor said that it was not clear to them who is in
+the driver's seat. One
 participant stated it as: "If we don't like a function, can we delete
 it? Or does that require IETF participation?"  Some things are very
 clearly IETF topics, and then there are some that fall in between IETF
-and ISOC, and then there are some that are purely ISOC. Control needs
+and ISOC, and then there are some that are purely ISOC. A participant
+felt that control needs
 to be aligned with accounting.
 
 On the marketing side, workshop participants discussed how the IETF is
 represented to the outside world -- donors, media, other organizations
 and communities -- and some felt that it needs to be clearer, even if
-this is currently an ISOC activity. People don't understand the
-difference between ISOC and IETF. We need to understand this before we
+this is currently an ISOC activity. One participant said that people
+don't understand the
+difference between ISOC and IETF and that we need to understand this
+before we
 can correctly communicate it.
 
 Some felt that the lack of rigid formality in the organization and
-structure was not necessarily a bad thing. Some felt that the
-structure of IETF, which is not well-defined and thus flexible,
-provides a benefit to the Internet. One commentor stated that given
+structure was not necessarily a bad thing. One commentor felt that the
+structure of IETF, which is not well-defined and flexible,
+provides a benefit to the Internet. Another commentor stated that given
 the proclivities of engineers towards structure and formality, working
 to improve IASA could make the IETF more structured and thus less
-appealing to some kinds of contributors. We need clarity that
+appealing to some kinds of contributors. Further, they stated that we
+need clarity that
 institutionalizes this level accessibility to all participants, which
 will be tricky. In contrast, another participant felt that we do
 ourselves a disservice by this long-standing confusion about whether
@@ -305,11 +320,14 @@ covered in {{I-D.arkko-ietf-finance-thoughts}}.
 
 Some workshop participants commented on how the willingness of
 sponsors to fund IETF is a useful measure of the IETF's
-relevance. That is, looking for sponsors is a good way to measure
-support in the community. If sponsorship starts to dry up, it may be a
+relevance. That is, they said, looking for sponsors is a good way
+to measure
+support in the community. The commentor went on to say if sponsorship
+starts to dry up, it may be a
 symptom of larger problems, that the IETF is no longer relevant or at
-least becoming less relevant. The IETF needs to ensure its ongoing
-relevance. The IETF needs to understand what it's offering. One
+least becoming less relevant. This participant felt that the IETF needs
+to ensure its ongoing
+relevance and that the IETF needs to understand what it's offering. One
 commentor stated that while it's valuable to stay in touch with the
 engineers who understand how the Internet works, that may not justify
 their attendance at three meetings a year. It was felt that individual
@@ -318,14 +336,16 @@ perfectly, but that fact doesn't take away the need for clarity.
 
 In terms of funding sources, participants commented that it is
 generally good for the IETF to have multiple sources of funding on
-which to stand.  Diversity in funding sources allows IETF to shift
+which to stand.  This participant further stated that diversity in
+funding sources allows IETF to shift
 gears: IETF endowment can provide longer-term stability; Long-term
 sponsorship, such as the Global Host program ($100k per year for 10
 years, also stated as the best way to support the IETF as an
 organization); meetings can be funded through fees (although
 registration fees are prohibitive for many) and sponsorships. However,
 explaining the need for diversity of funding is more complicated than
-it needs to be. We probably need to find a simpler story.
+it needs to be. One participant felt that we probably need to find a
+simpler story.
 
 Specifically, participants discussed a potential mismatch between the
 IETF's activities and its funding model, which is mainly constituted
@@ -340,31 +360,38 @@ Global Hosts is much smaller compared to the sponsorship funding of
 many large-scale open-source projects (e.g., $500K/year per sponsor),
 and the IETF could be getting a lot more money through this source.
 
-Further, in terms of sponsorship funding, it's not often a cut-and-dry
-proposition, requiring a larger, more diffuse commitment than a
-sponsor may originally expect. For example, meeting sponsors are also
-responsible for extra work like printing T-shirts and staging social
-events, and there is a lot of risk to a meeting sponsor if they get
-anything wrong (presumably in terms of backlash from the community).
-This aspect of logistics and event programming is an area of expertise
-that few IETF participants have, so sponsors often have to get their
-marketing departments involved, for example. If sponsors could focus
-on just securing the money, where someone else would worry about the
-logistic problems, that would help.
+Further, in terms of sponsorship funding, a participant state that
+it's not often a cut-and-dry proposition, requiring a larger, more
+diffuse commitment than a sponsor may originally expect. For example,
+this participant noted that meeting sponsors are also responsible for
+extra work like printing T-shirts and staging social events, and there
+is a lot of risk to a meeting sponsor if they get anything wrong
+(presumably in terms of backlash from the community).  This aspect of
+logistics and event programming is an area of expertise that few IETF
+participants have, so sponsors often have to get their marketing
+departments involved, for example. A commentor said, if sponsors could
+focus on just securing the money, where someone else would worry about
+the logistics problems, that would help.
 
 There were also issues discussed with communication to potential
-sponsors and funders what they are agreeing to.  The IETF needs to be
+sponsors and funders what they are agreeing to.  A workshop participant
+felt that the IETF needs to be
 able to clearly state what it is asking for, and what the relevance is
-for the potential sponsor. It's unclear now who is responsible for
-communicating these messages to funding sources. It's unclear how this
+for the potential sponsor. One participant stated that it's unclear now
+who is responsible for
+communicating these messages to funding sources, Furhter this participant
+said that it's unclear how this
 outreach is done and if it is done well, especially for large
 sponsors. One commentor states that it seems like there are two types
 of organizations the IETF is looking for -- those involved in the
-Internet ecosystem, and those interested in standards.  Honing
+Internet ecosystem, and those interested in standards.  This person felt
+that honing
 outreach to both of those types of organizations would be
 helpful. Another commentor stated that the same sponsors are asked for
-support over and over again.  Further, how are new companies sought
-out and developed for potential support?  Outreach appears to be split
+support over and over again.  This person further asked about how new
+companies are sought
+out and developed for potential support.  One commentor noted that
+outreach appears to be split
 between the various IASA parties.  A commentor stated that when ISOC
 is raising funds on behalf of the IETF, its relationship to the IETF
 needs to be clearly communicated.
@@ -382,7 +409,6 @@ organization managing and reporting on the IETF endowment. Thus,
 perhaps a different level of financial and administrative separation
 from ISOC would be helpful for fundraising in the future, both for
 supporting the IETF generally and for the endowment.
-
 
 Some commentors talked about what kinds of support were easier to
 secure from their organizations.  An IETF participant may be more
@@ -409,36 +435,43 @@ following issues involving transparency and communication:
 * Requirements from the community about IAOC transparency expectations 
   are not clear.
 
-The IAOC and IASA could better communicate with the IETF community,
-some said. IASA has lagged progress of groups like the IESG, who have
+Some said that he IAOC and IASA could better communicate with the
+IETF community.
+IASA has lagged progress of groups like the IESG, who have
 made agendas and meetings open.  Participants felt that the IETF
 community should document the transparency requirement clearly, e.g.,
 set the default to be open, such as open meetings and materials, and
 publish an exception list for confidential or sensitive matters. Hotel
 contracts aren't shown due to confidentiality agreements, and there
 have been some arguments about that reducing transparency of meeting
-deals.  Fear was identified as a significant cause of lack of
-transparency.  Two potential sources of fear were offered: making a
+deals.  One workshop participant identified fear as a significant
+cause of lack of
+transparency.  A commentor offered two potential sources of fear: making a
 decision that the IAOC knows the community won't like, and having a
 situation where there is a Last Call and all of the previous
 conversations the IAOC has had are rehashed.
 
 With regards to IAOC communication to IETF, some said that we could
 use a better understanding of what needs to improve and where it can
-improve. The IAOC could do better in telling the community what it
-does and how it makes decisions. Now that plenary time has been
+improve. A commentor felt that the IAOC could do better in telling
+the community what it
+does and how it makes decisions.  However, another commentor noted,
+now that plenary time has been
 shortened, the community doesn't get to see the IAOC, and this reduces
 the opportunities for the community to understand what they
-do. However, participants have said that they don't want exposure to
+do. This commentor noted that participants have said that they don't
+want exposure to
 the boring details at the plenaries -- "which are boring until they're
-not, and everyone is surprised."  How do we encourage the IETF
+not, and then everyone is surprised."  Another participant asked, how
+we encourage the IETF
 community to understand the IAOC and role of the IASA to best reduce
 these poor outcomes?  One suggestion was for the IAOC to hold
 information sessions or office hours at meetings, to allow people to
 raise concerns and ask for guidance.  This could help the community
 get to know the IAOC and have people volunteer.  Some felt that the
 IAOC needs to provide insight into what the IAOC is going to do, as
-opposed to what it has just done.  Telegraphing for a few years may
+opposed to what it has just done.  This commentor felt that telegraphing
+for a few years may
 improve the level of education.  It could help with transparency
 without running afoul of the confidentiality of contracts. Some felt
 that a Last Call for some IAOC things is worthwhile, but other, more
@@ -471,14 +504,15 @@ draw in expertise in a particular area, without burdening committee
 members with the overall task of IAOC responsibility. One participant
 observed that the function of the committees seems to go pretty well,
 but sometimes scope and authority in relation to the IAOC are
-unclear. Who's really in charge of the committee? Who is leading the
+unclear. They asked, who's really in charge of the committee? Who is leading the
 discussions and making decisions? What kind of decision is being made?
-Who is supporting those decisions? A committee can make a
+Who is supporting those decisions? Another participant noted that a
+committee can make a
 recommendation that is subject to easy reversal by the IAOC, which can
 provide an undercurrent of doubt when discussions take place.
 
-Although IAOC committees are listed on the IAOC website
-(https://iaoc.ietf.org/committees.html) there is a lack of
+A participant said that, although IAOC committees are listed on the IAOC website
+(https://iaoc.ietf.org/committees.html), there is a lack of
 documentation about how the committee participants are
 chosen. Elaborating the expertise and skills needed can be a
 challenge. For some teams it is necessary to have paid staff or
@@ -487,13 +521,17 @@ some of the site visit and meeting contract negotiation staff. Last
 year the IAOC asked for volunteers from the community and added
 participants to several committees.
 
-To understand how the committees work, one needs to understand the
+A Workshop participant noted that, in order to understand how the
+committees work, one needs to understand the
 requirements and dependencies on contractors and other support
 structures, which is complicated and not generally well
-understood. What are the contractors doing? What effort is required to
-serve as a volunteer? The committee composition of volunteers plus
+understood. The commentor further asked, what are the contractors doing?
+What effort is required to
+serve as a volunteer? A participant felt that the committee composition
+of volunteers plus
 paid staff may cause confusion about participants' roles, and also
-cause control and accountability issues. Lack of encouragement for
+cause control and accountability issues. Another person said that the
+lack of encouragement for
 participation in committees might be a disincentive for IAOC
 participation. However, one workshop partipant was surprised at the
 number of participants involved in IAOC committees.
@@ -524,7 +562,8 @@ instance, knowing about IAOC activities early enough to affect them,
 would translate into more people wanting to participate in the
 IAOC. Information about the IAOC can be made available in email and on
 the website, but that may not inspire people who don't care about
-administrative issues to volunteer. Having people spend time just on
+administrative issues to volunteer. A workshop participant stated that
+having people spend time just on
 the technical work would be a success, but relying on volunteers for
 the IAOC's large volume of work may be unreasonable.
 
@@ -532,7 +571,8 @@ It was pointed out that populating the IAOC is difficult because is
 there are so many leadership positions, and only those appointees from
 the IESG, IAB, and the two appointed by NomCom can be Chair. One of
 those four people will always be the Chair, and another of those four
-will chair the IETF Trust. There is a tradition of the ISOC Board of
+will chair the IETF Trust. Another participant said that there is a
+tradition of the ISOC Board of
 Trustees appointee not standing for chair, but that is not a
 requirement, and the IAOC could move away from it. It's important that
 the appointers choose people who have interest in chairing, otherwise
@@ -547,20 +587,26 @@ membership of the IAOC. There needs to be a way for the community to
 pick additional people.
 
 The question was asked: to what extent is the IAOC an oversight body?
-If the community wants the IAOC to be able to do more than provide the
+A participant felt that if the community wants the IAOC to be able to
+do more than provide the
 thinnest layer of oversight, then it needs to revisit how to populate
-the IAOC. In order to make any changes to the IAOC, the community
+the IAOC. Another commentor felt that in order to make any changes to
+the IAOC, the community
 needs to understand the current roles and responsibilities of its
 members.
  
-The IETF Trust requires talent separate from the rest of the IAOC
-tasks. Maybe it is no longer convenient that the IAOC and Trust are
+A commentor said that the IETF Trust requires talent separate from the
+rest of the IAOC
+tasks. This commentor said that maybe it is no longer convenient that
+the IAOC and Trust are
 together, given the IANA stewardship transition and the need for IAOC
-feedback to the Trust concerning the IANA IPR. However, this is a
+feedback to the Trust concerning the IANA IPR. However, this commentor
+felt that this is a
 secondary issue compared to other issues raised during the
 workshops. When asked if the Trust could be smaller, workshop
 participants responded that size was not an issue aside from getting
-quorum occasionally. The size and composition of the IETF Trust should
+quorum occasionally. Another commentor felt that the size and composition
+of the IETF Trust should
 be determined by its role, which needs to be discussed. Currently, the
 IETF Trust has a light workload.
 
