@@ -212,7 +212,7 @@ and should show up in an accounting of IETF resources -- and ISOC
 Fellows and Policy Fellows -- which are ISOC-funded and controlled
 programs that should not
 show up in an IETF budget. (The ISOC Fellows and Policy Fellows programs
-encourage, respecitvely, technologists from emerging and
+encourage, respectively, technologists from emerging and
 developing economies and policy experts from around the world to
 interact with the IETF community.)
 A commentor mentioned that this sounded like
@@ -357,6 +357,19 @@ proportion for meeting-based revenue? What are the alternative methods
 to fund the non-meeting-based activities?  Sponsorships?  Do we hire
 staff or contract to provide assistance?
 
+While ISOC currently makes up any current budget shortfalls for IETF
+(after meeting fee and sponsorship income), a participant commented
+that the assumption that ISOC's primary purpose is to fund the IETF is
+more strongly held in some corners than others. At the same time, this
+commentor said that another school of thought believes that the .org
+contract that funds ISOC requires ISOC to ensure the support of the
+IETF, so is a core goal of ISOC. Another commentor said that after
+consulting some of the people involved when the .org contract was
+given to ISOC, the IETF was clearly only a part of the public interest
+the .org contract mission sought to fulfill. Further, another
+commentor noted, those in local ISOC chapters don't think that IETF is
+a purpose of ISOC, let alone the main purpose.
+
 In terms of the relative amounts of funding from sources, a commentor
 mentioned that the level of funding that the IETF receives through
 Global Hosts is much smaller compared to the sponsorship funding of
@@ -382,7 +395,7 @@ felt that the IETF needs to be
 able to clearly state what it is asking for, and what the relevance is
 for the potential sponsor. One participant stated that it's unclear now
 who is responsible for
-communicating these messages to funding sources, Furhter this participant
+communicating these messages to funding sources, Further this participant
 said that it's unclear how this
 outreach is done and if it is done well, especially for large
 sponsors. One commentor states that it seems like there are two types
@@ -397,7 +410,7 @@ out and developed for potential support.  One commentor noted that
 outreach appears to be split
 between the various IASA parties.  A commentor stated that when ISOC
 is raising funds on behalf of the IETF, its relationship to the IETF
-needs to be clearly communicated.
+needs to be clearly communicated. 
 
 Participants offered up some perspective as current and past IETF
 sponsors through their own organization.  One participant noted that
@@ -536,8 +549,11 @@ paid staff may cause confusion about participants' roles, and also
 cause control and accountability issues. Another person said that the
 lack of encouragement for
 participation in committees might be a disincentive for IAOC
-participation. However, one workshop partipant was surprised at the
-number of participants involved in IAOC committees.
+participation. However, one workshop participant was surprised at the
+number of participants involved in IAOC committees as well as the varied
+mix of roles -- volunteers, contractors, staff -- which can make it hard
+to assess if a committee member was serving as a paid
+hand, policy maker, or somewhere in between.
 
 
 Internal IAOC Organizational Issues {#IAOCorg}
@@ -613,7 +629,8 @@ felt that this is a
 secondary issue compared to other issues raised during the
 workshops. When asked if the Trust could be smaller, workshop
 participants responded that size was not an issue aside from getting
-quorum occasionally. Another commentor felt that the size and composition
+quorum occasionally (this has only happened once or twice). Another
+commentor felt that the size and composition
 of the IETF Trust should
 be determined by its role, which needs to be discussed. Currently, the
 IETF Trust has a light workload.
@@ -640,7 +657,7 @@ The authors would like to thank the participants of the IASA 2.0 workshops for t
 
 --- back
 
-Participants {#particpants}
+Participants {#participants}
 ============
 
 We list here participants in each virtual workshop (as listed in the
