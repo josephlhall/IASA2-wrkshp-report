@@ -210,9 +210,12 @@ should focus on what the *IETF* is doing. Other ISOC-funded activities
 include participation in the Ombudsteam -- which was requested by IETF
 and should show up in an accounting of IETF resources -- and ISOC
 Fellows and Policy Fellows -- which are ISOC-funded and controlled
-programs that encourage technical ISOC members and policy experts from
-developing economies to interact with the IETF -- that should not
-show up in an IETF budget. A commentor mentioned that this sounded like
+programs that should not
+show up in an IETF budget. (The ISOC Fellows and Policy Fellows programs
+encourage, respecitvely, technologists from emerging and
+developing economies and policy experts from around the world to
+interact with the IETF community.)
+A commentor mentioned that this sounded like
 a branding issue at
 times: while the IETF Trust holds IETF trademarks, is the IETF brand
 and the contours of what it encompasses clear? The commentor further
