@@ -1,7 +1,7 @@
 ---
 title: Report from the IASA 2.0 Virtual Workshops
-docname: hall-iasa20-workshops-report
-date: 2017-02-27
+docname: draft-hall-iasa20-workshops-report-00
+date: 2017-03-13
 category: info
 
 ipr: trust200902
