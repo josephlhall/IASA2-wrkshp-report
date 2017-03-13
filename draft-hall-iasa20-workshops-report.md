@@ -579,6 +579,11 @@ the appointers choose people who have interest in chairing, otherwise
 the pool gets smaller. A workshop participant said that they had heard
 stories that NomComs did not know what to look for when appointing
 someone to the IAOC.
+One participant followed up to say that in their experience, NomComs
+have looked for someone to clearly represent the IETF community, to
+act as a balance against the institutional appointees.  This
+participant noted that This goal is probably in contrast to finding a
+good chair.
 
 Participants noted that the ex officios bring much knowledge to the
 IAOC and they need to be participants, but they don't have the
